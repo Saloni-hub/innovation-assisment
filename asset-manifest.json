@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/innovation-assisment/static/css/main.65db1e9f.css",
-    "main.js": "/innovation-assisment/static/js/main.6eea905c.js",
+    "main.css": "/innovation-assisment/static/css/main.9a8ca306.css",
+    "main.js": "/innovation-assisment/static/js/main.53ab5166.js",
     "static/js/787.75eda304.chunk.js": "/innovation-assisment/static/js/787.75eda304.chunk.js",
     "index.html": "/innovation-assisment/index.html",
-    "main.65db1e9f.css.map": "/innovation-assisment/static/css/main.65db1e9f.css.map",
-    "main.6eea905c.js.map": "/innovation-assisment/static/js/main.6eea905c.js.map",
+    "main.9a8ca306.css.map": "/innovation-assisment/static/css/main.9a8ca306.css.map",
+    "main.53ab5166.js.map": "/innovation-assisment/static/js/main.53ab5166.js.map",
     "787.75eda304.chunk.js.map": "/innovation-assisment/static/js/787.75eda304.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65db1e9f.css",
-    "static/js/main.6eea905c.js"
+    "static/css/main.9a8ca306.css",
+    "static/js/main.53ab5166.js"
   ]
 }
