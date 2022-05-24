@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/innovation-asssignment/static/css/main.ba4f71d4.css",
+    "main.js": "/innovation-asssignment/static/js/main.1d2c252d.js",
+    "static/js/787.75eda304.chunk.js": "/innovation-asssignment/static/js/787.75eda304.chunk.js",
+    "index.html": "/innovation-asssignment/index.html",
+    "main.ba4f71d4.css.map": "/innovation-asssignment/static/css/main.ba4f71d4.css.map",
+    "main.1d2c252d.js.map": "/innovation-asssignment/static/js/main.1d2c252d.js.map",
+    "787.75eda304.chunk.js.map": "/innovation-asssignment/static/js/787.75eda304.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba4f71d4.css",
+    "static/js/main.1d2c252d.js"
+  ]
+}
