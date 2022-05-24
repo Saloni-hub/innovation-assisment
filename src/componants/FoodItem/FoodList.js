@@ -68,7 +68,7 @@ const FoodList = () => {
         </div>
       )}
      {
-       detailsFood.show ? (
+       detailsFood.show && selectedTab === 2 ? (
         <div>
         <div className="food-list">
           <img src={Icon} alt="icon" />
@@ -107,7 +107,7 @@ const FoodList = () => {
           </table>
         </div>
       </div>
-       ): <h1 className="foodDetailsNot">Food details Not Found.</h1>
+       ): selectedTab ===2 && (<h1 className="foodDetailsNot">Food details Not Found.</h1>)
      }
 
     </div>
