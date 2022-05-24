@@ -50,3 +50,9 @@ table, th, td {
     margin-left: 20px;
     margin-bottom: 10px;
   }
+
+  .foodDetailsNot{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }

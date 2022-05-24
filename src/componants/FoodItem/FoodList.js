@@ -59,7 +59,7 @@ const FoodList = () => {
                     });
                     if(detailsFood.show){
                       setSelectedTab(2);
-                    }
+                    } 
                   }}
                 >{`${item.product_name}  (${item.generic_name})`}</p>
               </div>
@@ -68,7 +68,7 @@ const FoodList = () => {
         </div>
       )}
      {
-       detailsFood.show && (
+       detailsFood.show ? (
         <div>
         <div className="food-list">
           <img src={Icon} alt="icon" />
@@ -107,7 +107,7 @@ const FoodList = () => {
           </table>
         </div>
       </div>
-       )
+       ): <h1 className="foodDetailsNot">Food details Not Found.</h1>
      }
 
     </div>
